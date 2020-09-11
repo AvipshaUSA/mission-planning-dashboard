@@ -1,4 +1,38 @@
 .box{
     display: flex;
-    padding: 10px;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 4px solid;
+    background-color:yellow;
+}
+#header{ 
+   
+    padding-top: 10px;
+    padding-bottom: 40px;  
+}
+
+app-crew{
+    font-size: 25px;
+    padding-left:10%;
+    padding-right: 50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+app-equipment{
+    font-size: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+app-experiments{
+    font-size: 25px;
+    padding-bottom: 20px; 
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right:10%;
+    
+
 }
